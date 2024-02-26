@@ -8,4 +8,10 @@ This is introduction for Git
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+Main prurpose is to provide training
+
+##Deplojyment
+
+This is a simple web project, deployment can be done on web server
+Last added to check p4merge.
