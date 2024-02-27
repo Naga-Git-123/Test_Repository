@@ -17,5 +17,10 @@
     Changes  in main branch --NL
     Changes in myfeature--NL001
     Changes in main branch--NL001@3
+<<<<<<< HEAD
      Changes in main myfeature branch--NL001@3
 
+=======
+
+    Changes in myfeature branch @ 4:20 pPM
+>>>>>>> myfeature
