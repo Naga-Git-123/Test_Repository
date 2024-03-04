@@ -24,3 +24,12 @@
 
     Changes in myfeature branch @ 4:20 pPM
 >>>>>>> myfeature
+
+### Students List
+
+Prudhvi
+Aadhi
+Gullu
+Krithik
+
+Data is added in simple-changes branch for humans.txt file.
