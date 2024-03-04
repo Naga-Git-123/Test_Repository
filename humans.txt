@@ -1,4 +1,7 @@
 # humanstxt.org/
+
+#Text added before doing stath
+
 # The humans responsible & technology colophon
 
 # TEAM
